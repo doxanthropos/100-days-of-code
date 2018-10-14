@@ -12,3 +12,16 @@ The Coding Train video show the usage of the [dotenv](https://www.npmjs.com/pack
 
 * [Sourcecode for the bot](https://github.com/doxanthropos/peotrybot)
 * [Robotic Peotry](https://botsin.space/@peotry) My bot in the wild of [Bots in Space](https://botsin.space/)
+
+### Day 1 and 2: October 13 + 14, 2018
+
+**Today's Progress:** I read a lot about generating texts through programming and am not really sure about the way I will choose to take with my mastodon bot (which is still trying to find the answer to life, the universe and the rest, please do not spoil him).
+A pure Markov Chain based approach will probably not produce texts that look like poems, there needs to be some predefined structure. Therefore I read the second chapter of [Paradigms of Artificial Intelligence Programming](https://github.com/norvig/paip-lisp) and tried to create a similar sentence generator in JavaScript.
+I also tried to fix a missing part of the yarn documentation.
+
+**Thoughts:** There is a saying: "one can write Fortran in any language" and I think here I have experienced something similar with Lisp. While the solution to building sentences from Peter Norvig looks objective and only driven by the rules of the english language, but still it is written in Lisp. In trying to do something similar in JavaScript, I ended up using a lot of lists in many places.
+
+**Link to work:**
+
+* [Sentence generator]: https://gist.github.com/doxanthropos/9c0fdfe42fe1ef664c8690013732d3fb
+* [yarn documentation PR]: https://github.com/yarnpkg/website/pull/873
