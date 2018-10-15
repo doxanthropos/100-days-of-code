@@ -23,5 +23,15 @@ I also tried to fix a missing part of the yarn documentation.
 
 **Link to work:**
 
-* [Sentence generator]: https://gist.github.com/doxanthropos/9c0fdfe42fe1ef664c8690013732d3fb
-* [yarn documentation PR]: https://github.com/yarnpkg/website/pull/873
+* [Sentence generator](https://gist.github.com/doxanthropos/9c0fdfe42fe1ef664c8690013732d3fb)
+* [yarn documentation PR](https://github.com/yarnpkg/website/pull/873)
+
+### Day 3: October 15, 2018
+
+**Today's Progress:**: Been away from the computer for a long time today and listend to some episodes of the [Base CS Podcast](https://www.codenewbie.org/basecs) on the train. Back home I tried making something resembling a poem out of my sentence generator, that I built yesterday. Now my generative poet toots two sentence poems.
+
+**Thoughts:** After having a sentence generator that produces purely random sentences, it was quite easy to reduce the randomness in a selected part to give the two sentences of the poem something in common.
+
+**Link to work:**
+
+* [Commit for today](https://github.com/doxanthropos/peotrybot/commit/13815fac4490a9bdb81c5889ad1d002d1e55f190)
