@@ -28,10 +28,17 @@ I also tried to fix a missing part of the yarn documentation.
 
 ### Day 3: October 15, 2018
 
-**Today's Progress:**: Been away from the computer for a long time today and listend to some episodes of the [Base CS Podcast](https://www.codenewbie.org/basecs) on the train. Back home I tried making something resembling a poem out of my sentence generator, that I built yesterday. Now my generative poet toots two sentence poems.
+**Today's Progress:** Been away from the computer for a long time today and listend to some episodes of the [Base CS Podcast](https://www.codenewbie.org/basecs) on the train. Back home I tried making something resembling a poem out of my sentence generator, that I built yesterday. Now my generative poet toots two sentence poems.
 
 **Thoughts:** After having a sentence generator that produces purely random sentences, it was quite easy to reduce the randomness in a selected part to give the two sentences of the poem something in common.
 
 **Link to work:**
 
 * [Commit for today](https://github.com/doxanthropos/peotrybot/commit/13815fac4490a9bdb81c5889ad1d002d1e55f190)
+
+### Day 4: October 16, 2018
+
+**Today's Progress:** While I am still not sure how to proceed with the bot, I did some FreeCodeCamp challenges. I started with the API and Microservices part and learned how to use (on a very basic level) express for JavaScript back end programming and how SemVer works.
+
+**Thoughts:** Since these challenges are not really my own project, doing them feels a lot less productive. I learned a lot, but I think I will go onwards with at least some time spent on own projects every day.
+
