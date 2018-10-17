@@ -42,3 +42,10 @@ I also tried to fix a missing part of the yarn documentation.
 
 **Thoughts:** Since these challenges are not really my own project, doing them feels a lot less productive. I learned a lot, but I think I will go onwards with at least some time spent on own projects every day.
 
+### Day 5: October 17, 2018
+
+**Today's Progress:** Like on day zero, I followed a video from Daniel Shiffman and built something on top of that. [He made a nice video about seven segment displays](https://www.youtube.com/watch?v=MlRlgbrAVOs) and I made a clock with that.
+
+**Thoughts:** Had some fun with p5. I think this code could use some refactoring, but I am OK with the existing functionality.
+
+* [7-Segment Clock](https://doxanthropos.github.io/sketchbook/2018101701/)
