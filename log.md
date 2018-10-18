@@ -49,3 +49,12 @@ I also tried to fix a missing part of the yarn documentation.
 **Thoughts:** Had some fun with p5. I think this code could use some refactoring, but I am OK with the existing functionality.
 
 * [7-Segment Clock](https://doxanthropos.github.io/sketchbook/2018101701/)
+
+### Day 6: October 18, 2018
+
+**Today's Progress:** Watched [another video of Dan Shiffman](http://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html), this time the one on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in [p5.js](http://p5js.org/). As usual, I followed a bit, then did something on my own. It is working, but I will change it a little tomorrow to allow the visitor to change the state of the cells, so one can paint the nice structures that are possible on this.
+
+**Thoughts:** While going for a wraparound before Dan did, I encountered more then one of the famous "off by one" errors that so easily can happen. Getting the wrapping via modulo right was a lot harder for me than for Dan Shiffman in the video, even after I basically had the same idea to do that, that he also used.
+
+* [Game of Life v1.0](https://doxanthropos.github.io/sketchbook/2018101801/)
+* [Sourcecode](https://github.com/doxanthropos/sketchbook/tree/master/2018101801)
