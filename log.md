@@ -58,3 +58,12 @@ I also tried to fix a missing part of the yarn documentation.
 
 * [Game of Life v1.0](https://doxanthropos.github.io/sketchbook/2018101801/)
 * [Sourcecode](https://github.com/doxanthropos/sketchbook/tree/master/2018101801)
+
+### Day 7: October 19, 2018
+
+**Today's Progress:** I took the Game of Life from yesterday and implemented some ways for the user to interact with it. Now it is possible to pause and resume, to change the state of the cells and to speed up and slow down.
+
+**Thoughts:** Refining was quite an enjoyable process. I was able to think about what would be fun and make the site interesting. 
+
+* [Game of Life v2.0](https://doxanthropos.github.io/sketchbook/2018101901/)
+* [Sourcecode](https://github.com/doxanthropos/sketchbook/tree/master/2018101901)
