@@ -67,3 +67,9 @@ I also tried to fix a missing part of the yarn documentation.
 
 * [Game of Life v2.0](https://doxanthropos.github.io/sketchbook/2018101901/)
 * [Sourcecode](https://github.com/doxanthropos/sketchbook/tree/master/2018101901)
+
+### Day 8 and 9: October 20 + 21, 2018
+
+**Today's Progress:** Have been travelling on the weekend without my computer, so was only able to read, to go on with this. Read about c programming and networking.
+
+**Thoughts:** Not sure how to cope with days like these in this challenge. Does reading count? I think I am finally getting things like malloc, free and so on in my head.
