@@ -48,6 +48,8 @@ I also tried to fix a missing part of the yarn documentation.
 
 **Thoughts:** Had some fun with p5. I think this code could use some refactoring, but I am OK with the existing functionality.
 
+**Link to work:**
+
 * [7-Segment Clock](https://doxanthropos.github.io/sketchbook/2018101701/)
 
 ### Day 6: October 18, 2018
@@ -55,6 +57,8 @@ I also tried to fix a missing part of the yarn documentation.
 **Today's Progress:** Watched [another video of Dan Shiffman](http://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html), this time the one on [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) in [p5.js](http://p5js.org/). As usual, I followed a bit, then did something on my own. It is working, but I will change it a little tomorrow to allow the visitor to change the state of the cells, so one can paint the nice structures that are possible on this.
 
 **Thoughts:** While going for a wraparound before Dan did, I encountered more then one of the famous "off by one" errors that so easily can happen. Getting the wrapping via modulo right was a lot harder for me than for Dan Shiffman in the video, even after I basically had the same idea to do that, that he also used.
+
+**Link to work:**
 
 * [Game of Life v1.0](https://doxanthropos.github.io/sketchbook/2018101801/)
 * [Sourcecode](https://github.com/doxanthropos/sketchbook/tree/master/2018101801)
@@ -65,6 +69,8 @@ I also tried to fix a missing part of the yarn documentation.
 
 **Thoughts:** Refining was quite an enjoyable process. I was able to think about what would be fun and make the site interesting. 
 
+**Link to work:**
+
 * [Game of Life v2.0](https://doxanthropos.github.io/sketchbook/2018101901/)
 * [Sourcecode](https://github.com/doxanthropos/sketchbook/tree/master/2018101901)
 
@@ -73,3 +79,11 @@ I also tried to fix a missing part of the yarn documentation.
 **Today's Progress:** Have been travelling on the weekend without my computer, so was only able to read, to go on with this. Read about c programming and networking.
 
 **Thoughts:** Not sure how to cope with days like these in this challenge. Does reading count? I think I am finally getting things like malloc, free and so on in my head.
+
+### Day 10: October 22, 2018
+
+**Today's Progress and Thoughts:** Making a 3D version of the Game of Life made my old little laptop overheat seriously, at least with p5. so I thought: why not do that in Processing? Compiling before running the code should take some load off the laptop. But I have never done 3D with Processing and no Processing until now on this machine. So I spent some time configuring [Emacs for using Processing](https://www.emacswiki.org/emacs/Processing) and figuring out how to create a sketch that will actually compile. In the end I was able to follow the short video on [Coding Challenge #101 from Daniel Shiffman](http://thecodingtrain.com/CodingChallenges/101-may-the-4th.html) and make that run from inside Emacs.
+
+**Link to work:**
+
+* [Today's commit](https://github.com/doxanthropos/sketchbook/commit/4581ad95432bc68b3f2b312e2e0dd7b8536f4e15)
