@@ -87,3 +87,14 @@ I also tried to fix a missing part of the yarn documentation.
 **Link to work:**
 
 * [Today's commit](https://github.com/doxanthropos/sketchbook/commit/4581ad95432bc68b3f2b312e2e0dd7b8536f4e15)
+
+### Day 11: October 23, 2018
+
+**Today's Progress:** I saw that there was a new [Coding Challenge Video](https://thecodingtrain.com/CodingChallenges/119-binary-decimal-conversion.html) online, so I had to watch it and code along. Based on the code from this video, I built a sketch that converts ascii characters to their binary code and visualizes this binary code.
+
+**Thoughts:** This was fun. I choose to go for the green on black design from the 7-segment clock, because it provides a fitting retro look. I worried that I would have to write a function to convert decimal numbers to a binary number string, but luckily the JS function "toString(2)" with the 2 for the base, does just that, so I only had to pad the zeros on the left. Of course writing it would not have been difficult (that would have been a good use of the modulus operator), but not that much fun.
+
+**Links to work:**
+
+* [Ascii to Binary Visualization](https://doxanthropos.github.io/sketchbook/2018102301/)
+* [Source](https://github.com/doxanthropos/sketchbook/tree/master/2018102301)
